@@ -1,0 +1,1528 @@
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 100%;
+    min-width: 400px;
+}
+
+#Copyright_2019_AISCRIBE {
+    float: none;
+    font-size: 0.75em;
+    width: auto;
+    height: auto;
+    text-align: center;
+    font-weight: bold;
+    line-height: 1em;
+    color: rgb(255, 254, 254);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 4;
+    margin-top: 48px;
+    margin-left: auto;
+    clear: none;
+    margin-right: auto;
+}
+
+#footer {
+    float: left;
+    height: 250px;
+    width: 100%;
+    background-color: rgb(67, 68, 68);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 2;
+    margin-top: 0px;
+    margin-left: 0%;
+    clear: both;
+}
+
+#phone {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 22;
+    margin-top: 0px;
+    margin-left: 18%;
+    clear: none;
+    margin-right: 0%;
+}
+
+#Contact_Us {
+    float: left;
+    font-size: 1.125em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: bold;
+    line-height: 1em;
+    color: rgb(255, 254, 254);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 7;
+    margin-top: 0px;
+    margin-left: 17.01401%;
+    clear: none;
+    margin-right: 0%;
+}
+
+#logo_footer {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 10;
+    margin-top: 41px;
+    margin-left: auto;
+    clear: none;
+    margin-right: auto;
+}
+
+#android {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 16;
+    margin-top: 0px;
+    margin-left: 0px;
+    clear: none;
+    margin-right: 0px;
+}
+
+#Record_on_your_iPhone_and_upload_directly_to_AIScribe_Youʼll_g {
+    float: left;
+    font-size: 1.4375em;
+    width: 100%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: normal;
+    color: rgb(55, 55, 55);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 19;
+    margin-top: 28px;
+    margin-left: 0.00233492%;
+    clear: both;
+    margin-right: 0%;
+}
+
+#gov {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 28;
+    margin-top: 50px;
+    margin-left: 5.293491%;
+    clear: none;
+    margin-right: 0%;
+}
+
+#Train_Transcription_for_your_Industry {
+    float: left;
+    font-size: 1.5em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: bold;
+    line-height: 1em;
+    color: rgb(55, 55, 55);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 33;
+    margin-top: 34px;
+    margin-left: 19%;
+    clear: none;
+}
+
+#Enterprise {
+    float: left;
+    font-size: 1.125em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: bold;
+    line-height: 1em;
+    color: rgb(255, 254, 254);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 8;
+    margin-top: 0px;
+    margin-left: 22.132961%;
+    clear: none;
+    margin-right: 0%;
+}
+
+#app-store {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 17;
+    margin-top: 0px;
+    margin-left: 0%;
+    clear: none;
+    margin-right: 0px;
+}
+
+#AIScribe_on_The_Go {
+    float: left;
+    font-size: 2.6875em;
+    width: 100%;
+    height: auto;
+    text-align: left;
+    font-weight: bold;
+    line-height: 1em;
+    color: rgb(55, 55, 55);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 20;
+    margin-top: 0px;
+    margin-left: 0px;
+    clear: none;
+    margin-right: 0%;
+    min-width: 0px;
+}
+
+#education {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 29;
+    margin-top: 50px;
+    margin-left: 17.919368%;
+    clear: both;
+    margin-right: 0%;
+}
+
+#icons-bg {
+    float: left;
+    height: 432px;
+    width: 99.634236%;
+    background-color: rgb(248, 247, 247);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 25;
+    margin-top: 100px;
+    margin-left: 0.14598669%;
+    clear: both;
+}
+
+#italy {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 37;
+    margin-top: 46px;
+    margin-left: 5.633916%;
+    clear: none;
+}
+
+#Pricing {
+    float: left;
+    font-size: 1.125em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: bold;
+    line-height: 1em;
+    color: rgb(255, 254, 254);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 6;
+    margin-top: 0px;
+    margin-left: 0%;
+    clear: none;
+    margin-right: 0%;
+}
+
+#health {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 30;
+    margin-top: 55px;
+    margin-left: 6.168548%;
+    clear: none;
+}
+
+#russia {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 40;
+    margin-top: 46px;
+    margin-left: 5.632772%;
+    clear: none;
+}
+
+#germany {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 46;
+    margin-top: 36px;
+    margin-left: 5.632772%;
+    clear: none;
+}
+
+#Make_Your_Message_Global {
+    float: left;
+    font-size: 1.5em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: bold;
+    line-height: 1em;
+    color: rgb(55, 55, 55);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 54;
+    margin-top: 100px;
+    margin-left: 19.238392%;
+    clear: both;
+}
+
+#Upload_audio_video_files_With_AIScribe_get_searchable_editab {
+    float: left;
+    font-size: 1.25em;
+    width: 31.991215%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: normal;
+    color: rgb(255, 255, 255);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 125;
+    margin-top: 40px;
+    margin-left: 35px;
+    clear: both;
+}
+
+#header-img-large {
+    float: left;
+    width: 100%;
+    height: 530px;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 123;
+    background-image:url("img-home/header-img-large.png");
+    -webkit-background-size: 100%;
+    background-size: 100%;
+    margin-top: 0px;
+    margin-left: 0%;
+    clear: both;
+    min-width: 0px;
+}
+
+#AIScribe’s_automated_transcription_serves_many_use_cases_inclu {
+    float: left;
+    font-size: 1.25em;
+    width: 39.452091%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: normal;
+    color: rgb(55, 55, 55);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 27;
+    margin-top: -109px;
+    margin-left: 50px;
+    clear: none;
+    min-height: 279px;
+}
+
+#norway {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 39;
+    margin-top: 46px;
+    margin-left: 5.633916%;
+    clear: none;
+}
+
+#france {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 49;
+    margin-top: 36px;
+    margin-left: 5.633916%;
+    clear: none;
+}
+
+#Transcription_Made_Easy {
+    float: left;
+    font-size: 2.6875em;
+    width: 32.064422%;
+    height: auto;
+    text-align: left;
+    font-weight: bold;
+    line-height: normal;
+    color: rgb(255, 255, 255);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 126;
+    margin-top: 165px;
+    margin-left: 35px;
+    clear: none;
+}
+
+#law {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 31;
+    margin-top: 53px;
+    margin-left: 18.499245%;
+    clear: both;
+}
+
+#brazil {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 38;
+    margin-top: 46px;
+    margin-left: 5.632772%;
+    clear: none;
+}
+
+#netherlands {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 48;
+    margin-top: 36px;
+    margin-left: 5.705925%;
+    clear: none;
+}
+
+#sweden {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 41;
+    margin-top: 46px;
+    margin-left: 5.633916%;
+    clear: none;
+}
+
+#india {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 50;
+    margin-top: 36px;
+    margin-left: 5.633916%;
+    clear: none;
+}
+
+#Dynamically_translate_news_patents_or_conversational_document {
+    float: left;
+    font-size: 0.875em;
+    width: 99.501058%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: normal;
+    color: rgb(55, 55, 55);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 105;
+    margin-top: 11px;
+    margin-left: 0.49611313%;
+    clear: both;
+    margin-right: 0%;
+}
+
+#get-started {
+    float: right;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 132;
+    margin-top: 79px;
+    margin-left: 0px;
+    clear: none;
+    margin-right: 0px;
+}
+
+#spain {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 42;
+    margin-top: 46px;
+    margin-left: 5.705925%;
+    clear: none;
+}
+
+#denmark {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 47;
+    margin-top: 36px;
+    margin-left: 5.707068%;
+    clear: none;
+}
+
+#Supported_Languages {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: bold;
+    line-height: 1em;
+    color: rgb(155, 197, 61);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 106;
+    margin-top: 44px;
+    margin-left: 0.25000977%;
+    clear: both;
+    margin-right: 0%;
+}
+
+#Customize_the_translations_based_on_your_unique_terminology_and {
+    float: left;
+    font-size: 0.875em;
+    width: 99.501058%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: normal;
+    color: rgb(55, 55, 55);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 97;
+    margin-top: 11px;
+    margin-left: 0.49611313%;
+    clear: both;
+    margin-right: 0%;
+}
+
+#Transcribe_audio_for_various_use_cases_ranging_from_microphone_ {
+    float: left;
+    font-size: 0.875em;
+    width: 99.248959%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: normal;
+    color: rgb(55, 55, 55);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 78;
+    margin-top: 12px;
+    margin-left: 0.74812968%;
+    clear: both;
+    margin-right: 0%;
+}
+
+#logo {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 134;
+    margin-top: 33px;
+    margin-left: 35px;
+    clear: none;
+}
+
+#china {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 43;
+    margin-top: 46px;
+    margin-left: 19.165841%;
+    clear: both;
+}
+
+#czech {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 51;
+    margin-top: 36px;
+    margin-left: 5.705925%;
+    clear: none;
+}
+
+#Customize_Translation {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: bold;
+    line-height: 1em;
+    color: rgb(155, 197, 61);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 98;
+    margin-top: 33px;
+    margin-left: 0.25000977%;
+    clear: both;
+    margin-right: 0%;
+}
+
+#Translate_your_transcribed_audio_or_upload_files_to_communicate {
+    float: left;
+    font-size: 0.875em;
+    width: 99.501058%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: normal;
+    color: rgb(55, 55, 55);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 88;
+    margin-top: 11px;
+    margin-left: 0.49611313%;
+    clear: both;
+    margin-right: 0%;
+}
+
+#Document_Translation_Made_Easy {
+    float: left;
+    font-size: 1.5em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: bold;
+    line-height: 1em;
+    color: rgb(55, 55, 55);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 91;
+    margin-top: 0px;
+    margin-left: 0%;
+    clear: none;
+    margin-right: 0%;
+}
+
+#Built_to_support_many_use_cases {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: bold;
+    line-height: 1em;
+    color: rgb(155, 197, 61);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 79;
+    margin-top: 44px;
+    margin-left: 0.74812968%;
+    clear: both;
+    margin-right: 0%;
+}
+
+#Recognize_different_speakers_in_your_audio_and_spot_keywords_in {
+    float: left;
+    font-size: 0.875em;
+    width: 99.248959%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: normal;
+    color: rgb(55, 55, 55);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 70;
+    margin-top: 11px;
+    margin-left: 0.74812968%;
+    clear: both;
+    margin-right: 0%;
+}
+
+#login {
+    float: right;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 139;
+    margin-top: 30px;
+    margin-left: 0px;
+    clear: none;
+    margin-right: 35px;
+}
+
+#usa {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 52;
+    margin-top: 36px;
+    margin-left: 19.165841%;
+    clear: both;
+}
+
+#Translate_transcriptions_or_upload_files {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: bold;
+    line-height: 1em;
+    color: rgb(155, 197, 61);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 89;
+    margin-top: 20px;
+    margin-left: 0.25000977%;
+    clear: both;
+    margin-right: 0%;
+}
+
+#Highly_accurate_speech_detection {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: bold;
+    line-height: 1em;
+    color: rgb(155, 197, 61);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 71;
+    margin-top: 33px;
+    margin-left: 0.74812968%;
+    clear: both;
+    margin-right: 0%;
+}
+
+#Automatically_transcribe_audio_from_7_languages_in_real-time_an {
+    float: left;
+    font-size: 0.875em;
+    width: 99.248959%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: normal;
+    color: rgb(55, 55, 55);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 61;
+    margin-top: 11px;
+    margin-left: 0.74812968%;
+    clear: both;
+    margin-right: 0%;
+}
+
+#Transcribe_Your_Audio {
+    float: left;
+    font-size: 1.5em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: bold;
+    line-height: 1em;
+    color: rgb(55, 55, 55);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 64;
+    margin-top: 0px;
+    margin-left: 0%;
+    clear: none;
+    margin-right: 0%;
+}
+
+#create-account {
+    float: right;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 143;
+    margin-top: 30px;
+    margin-left: 0px;
+    clear: none;
+    margin-right: 15px;
+}
+
+#Powerful_real-time_speech_recognition {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: bold;
+    line-height: 1em;
+    color: rgb(155, 197, 61);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 62;
+    margin-top: 20px;
+    margin-left: 0.74812968%;
+    clear: both;
+    margin-right: 0%;
+}
+
+#headerBG {
+    float: left;
+    height: 100px;
+    width: 100%;
+    background-color: rgb(155, 197, 61);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 133;
+}
+
+#box {
+    float: left;
+    height: auto;
+    margin-left: 18.799547%;
+    margin-top: 100px;
+    clear: both;
+    width: 29.333593%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#box1 {
+    float: left;
+    height: auto;
+    margin-left: 3.511339%;
+    margin-top: 100px;
+    clear: none;
+    width: 29.259272%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#box3 {
+    float: left;
+    height: auto;
+    margin-left: 85px;
+    margin-top: 65px;
+    clear: none;
+    width: 25%;
+    margin-right: 0%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#box4 {
+    float: left;
+    height: auto;
+    margin: 50px 0px 0px;
+    clear: none;
+    width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    min-width: 0px;
+}
+
+#box2 {
+    float: left;
+    height: auto;
+    margin-left: 0px;
+    margin-top: 100px;
+    clear: both;
+    width: 100%;
+    min-width: 0px;
+}
+
+#box5 {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 46px;
+    clear: none;
+    width: 500px;
+    margin-right: auto;
+}
+
+@media only screen and (max-width: 1000px) {
+    #phone {
+        margin-left: 12%;
+    }
+}
+
+@media only screen and (max-width: 900px) {
+    #phone {
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        clear: none;
+    }
+
+    #box3 {
+        width: 100%;
+        margin-left: 0px;
+    }
+
+    #AIScribe_on_The_Go {
+        text-align: center;
+    }
+
+    #Record_on_your_iPhone_and_upload_directly_to_AIScribe_Youʼll_g {
+        text-align: center;
+    }
+
+    #app-store {
+        padding-left: 25%;
+    }
+
+    #android {
+        margin-left: 10px;
+    }
+
+    #footer {
+        margin-top: 300px;
+    }
+
+    #education {
+        margin-left: 15%;
+    }
+
+    #law {
+        margin-left: 17%;
+    }
+
+    #box {
+        margin-left: 19%;
+    }
+
+    #Make_Your_Message_Global {
+        margin-left: 15%;
+    }
+
+    #usa {
+        margin-left: 15%;
+    }
+
+    #china {
+        margin-left: 15%;
+    }
+
+    #Train_Transcription_for_your_Industry {
+        margin-left: 15%;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    #Train_Transcription_for_your_Industry {
+        margin-left: 10%;
+    }
+
+    #education {
+        margin-left: 10%;
+    }
+
+    #law {
+        margin-left: 12%;
+    }
+
+    #Make_Your_Message_Global {
+        margin-left: 10%;
+    }
+
+    #usa {
+        margin-left: 10%;
+    }
+
+    #china {
+        margin-left: 10%;
+    }
+
+    #phone {
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        clear: none;
+    }
+
+    #box {
+        margin-left: 17%;
+    }
+
+    #Transcription_Made_Easy {
+        width: 100%;
+        margin: 100px 0px 0px;
+        text-align: center;
+    }
+
+    #Upload_audio_video_files_With_AIScribe_get_searchable_editab {
+        margin: 40px 0px 0px;
+        width: 100%;
+        text-align: center;
+        clear: both;
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    #get-started {
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        clear: none;
+        margin-top: 350px;
+    }
+}
+
+@media only screen and (max-width: 700px) {
+    #create-account {
+        display: none;
+    }
+
+    #usa {
+        margin-left: 10%;
+        margin-top: 36px;
+        clear: both;
+    }
+
+    #china {
+        margin-left: 15%;
+        margin-top: 50px;
+        clear: none;
+    }
+
+    #header-img-large {
+        margin-top: 0px;
+        margin-left: 0%;
+        clear: both;
+    }
+
+    #box {
+        margin-top: 100px;
+        margin-left: 17%;
+        clear: both;
+    }
+
+    #Make_Your_Message_Global {
+        margin-top: 100px;
+        margin-left: 0px;
+        clear: both;
+        width: 100%;
+        text-align: center;
+    }
+
+    #germany {
+        margin-top: 50px;
+        margin-left: 15%;
+        clear: none;
+    }
+
+    #spain {
+        margin-top: 50px;
+        margin-left: 10.106771%;
+        clear: both;
+    }
+
+    #sweden {
+        margin-top: 50px;
+        margin-left: 15%;
+        clear: none;
+    }
+
+    #brazil {
+        margin-top: 50px;
+        margin-left: 15%;
+        clear: none;
+    }
+
+    #norway {
+        margin-top: 50px;
+        margin-left: 15%;
+        clear: none;
+    }
+
+    #russia {
+        margin-top: 50px;
+        margin-left: 9.833333%;
+        clear: both;
+    }
+
+    #icons-bg {
+        margin-top: 100px;
+        margin-left: 0px;
+        clear: both;
+    }
+
+    #box2 {
+        margin-top: 100px;
+        margin-left: 0px;
+        clear: both;
+    }
+
+    #footer {
+        margin-top: 300px;
+        margin-left: 0%;
+        clear: both;
+    }
+
+    #france {
+        margin-top: 50px;
+        margin-left: 15%;
+        clear: none;
+    }
+
+    #netherlands {
+        margin-top: 51px;
+        margin-left: 10%;
+        clear: both;
+    }
+
+    #italy {
+        margin-top: 50px;
+        margin-left: 15%;
+        clear: none;
+    }
+
+    #czech {
+        margin-left: 15%;
+    }
+
+    #denmark {
+        margin-left: 15%;
+    }
+
+    #india {
+        margin-left: 15%;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    #icons-bg {
+        height: auto;
+    }
+
+    #AIScribe’s_automated_transcription_serves_many_use_cases_inclu {
+        margin-top: 347px;
+        margin-left: auto;
+        clear: none;
+        margin-right: auto;
+        float: none;
+        width: 100%;
+        text-align: center;
+        min-height: 150px;
+    }
+
+    #law {
+        margin-top: 50px;
+        margin-left: 24.998432%;
+        clear: none;
+    }
+
+    #education {
+        margin-top: 50px;
+        margin-left: 21.999875%;
+        clear: both;
+    }
+
+    #health {
+        margin-top: 50px;
+    }
+
+    #Train_Transcription_for_your_Industry {
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        clear: none;
+        text-align: center;
+    }
+
+    #app-store {
+        margin-left: 0%;
+        margin-right: 0px;
+        float: left;
+        padding-left: 5%;
+    }
+
+    #box4 {
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        clear: none;
+        margin-top: 202px;
+    }
+
+    #Record_on_your_iPhone_and_upload_directly_to_AIScribe_Youʼll_g {
+        margin-top: 28px;
+        margin-left: 0%;
+        clear: both;
+    }
+
+    #czech {
+        margin-left: 10%;
+    }
+
+    #denmark {
+        margin-left: 10%;
+    }
+
+    #india {
+        margin-left: 10%;
+    }
+
+    #france {
+        margin-left: 10%;
+    }
+
+    #sweden {
+        margin-left: 10%;
+    }
+
+    #italy {
+        margin-left: 10%;
+    }
+
+    #brazil {
+        margin-left: 10%;
+    }
+
+    #germany {
+        margin-left: 10%;
+    }
+
+    #china {
+        margin-left: 10%;
+    }
+
+    #norway {
+        margin-left: 10%;
+    }
+
+    #box5 {
+        width: 300px;
+    }
+
+    #Enterprise {
+        margin-left: 5%;
+    }
+
+    #Contact_Us {
+        margin-left: 5%;
+    }
+
+    #headerBG {
+        height: 170px;
+    }
+
+    #login {
+        margin: 30px auto 0px;
+        float: none;
+        clear: none;
+    }
+
+    #logo {
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        clear: none;
+        margin-top: 33px;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    #app-store {
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        clear: none;
+    }
+
+    #android {
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        clear: none;
+        margin-top: 20px;
+    }
+
+    #login {
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        clear: none;
+        margin-top: 30px;
+    }
+
+    #logo {
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        clear: none;
+    }
+
+    #headerBG {
+        height: 170px;
+    }
+
+    #AIScribe_on_The_Go {
+        font-size: 2.5em;
+    }
+}
+

@@ -1,0 +1,262 @@
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 100%;
+    position: relative;
+}
+#docContentDiv {
+    float: none;
+    font-size: 0.9375em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: normal;
+    color: rgb(55, 55, 55);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 5;
+    margin-top: 15px;
+    margin-left: 0px;
+    clear: none;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    padding-right: 35px;
+    padding-left: 35px;
+}
+#contentBG {
+    float: none;
+    height: auto;
+    width: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 4;
+    margin-top: 0px;
+    margin-left: 10px;
+    clear: none;
+    /*padding: 15px;*/
+    padding-left: 30px;
+    margin-right: 0px;
+}
+#headerLbl {
+    float: none;
+    font-size: 1.5em;
+    width: 100%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    color: rgb(55, 55, 55);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: Avenir;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 10;
+    margin-top: 15px;
+    margin-left: auto;
+    clear: none;
+    min-width: 300px;
+    margin-right: auto;
+    padding-left: 30px;
+}
+#headerTxtBG {
+    float: left;
+    height: 54px;
+    width: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 9;
+}
+#titleDiv {
+    float: none;
+    height: 60px;
+    width: auto;
+    /*    background-color: rgb(246, 246, 246);*/
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 8;
+    margin-top: 100px;
+    margin-left: 10px;
+    clear: none;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+#_-e-logout {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 18;
+    margin-top: 1px;
+    margin-left: 0%;
+    clear: both;
+}
+#_-e-account {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 22;
+    margin-top: 1px;
+    margin-left: 0%;
+    clear: both;
+}
+#logo {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 65;
+    margin-top: 33px;
+    margin-left: 35px;
+    clear: none;
+}
+#_-e-translate {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 35;
+    margin-top: 1px;
+    margin-left: 0%;
+    clear: both;
+}
+#headerBG {
+    float: left;
+    height: 100px;
+    width: 100%;
+    background-color: rgb(155, 197, 61);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 62;
+    min-width: 300px;
+}
+#_-e-transcribe {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 44;
+    margin-top: 1px;
+    margin-left: 0%;
+    clear: both;
+}
+#_-e-all_files {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 54;
+    margin-top: 1px;
+    margin-left: 0%;
+    clear: none;
+    min-width: 0px;
+}
+#nav {
+    float: left;
+    height: 100%;
+    width: 195px;
+    background-color: rgb(55, 55, 55);
+    position: absolute;
+    top: auto;
+    left: 0px;
+    z-index: 14;
+    clear: both;
+    bottom: 0px;
+    min-height: 0px;
+    padding-top: 100px;
+}
+#navIcon {
+    display: none;
+}
+
+@media only screen and (max-width: 1000px) {
+}
+
+@media only screen and (max-width: 800px) {
+#nav {
+    margin-top: 31px;
+    margin-left: 0%;
+    clear: none;
+}
+}
+
+@media only screen and (max-width: 600px) {
+#logo {
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+    clear: none;
+}
+#navIcon {
+    display: block;
+}
+#nav {
+    visibility: visible;
+    display: none;
+}
+#titleDiv {
+    width: 100%;
+    margin-left: 0px;
+}
+#contentBG {
+    width: 100%;
+    margin-left: 0px;
+}
+}
+
+@media only screen and (max-width: 400px) {
+/*
+    #contentBG {
+        font-size: 8pt;
+        padding-left: 10px;
+    }
+*/
+    
+/*
+    #headerLbl {
+        
+        padding-left: 10px;
+    }
+*/
+}

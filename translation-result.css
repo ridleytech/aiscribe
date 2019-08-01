@@ -1,0 +1,482 @@
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 100%;
+    position: relative;
+}
+
+#edit_button {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 8;
+    margin-top: 18px;
+    margin-left: 35px;
+    clear: both;
+    margin-right: 0%;
+}
+
+#save_button {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 8;
+    margin-top: 18px;
+    margin-left: 35px;
+    clear: both;
+    margin-right: 0%;
+    display: none;
+}
+
+#cancel_button {
+        float: left;
+    width: auto;
+    /* max-width: 100%; */
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 8;
+    margin-top: 18px;
+    margin-left: 15px;
+    /* clear: both; */
+    margin-right: 0%;
+    display: none;
+}
+
+#docContentDiv {
+    float: left;
+    font-size: 0.9375em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: normal;
+    color: rgb(55, 55, 55);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 4;
+    clear: none;
+    margin: 15px 0px 0px;
+    padding-left: 35px;
+    padding-right: 35px;
+    min-width: 0px;
+}
+
+#editTxt {
+    float: left;
+    font-size: 0.9375em;
+    width: 100%;
+    height: 350px;
+    text-align: left;
+    font-weight: normal;
+    line-height: normal;
+    color: rgb(55, 55, 55);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 4;
+    clear: none;
+    margin: 15px 0px 0px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    min-width: 0px;
+    display: none;
+}
+
+#contentBG {
+    float: none;
+    height: auto;
+    width: 100%;
+/*    background-color: rgb(248, 247, 247);*/
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 3;
+    margin: 0px;
+    clear: none;
+    min-width: 0px;
+    overflow: hidden;
+    padding-bottom: 15px;
+}
+
+#txt-icon {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 106;
+    margin-top: 5px;
+    margin-left: 16.806723%;
+    clear: none;
+}
+
+#exportBG {
+    float: right;
+    height: auto;
+    width: 135px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 102;
+    clear: none;
+    margin: 10px 35px 0px 0px;
+    overflow: visible;
+}
+
+#word-icon {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 105;
+    margin-top: 5px;
+    margin-left: 16.806723%;
+    clear: none;
+}
+
+#resultLbl {
+    float: left;
+    font-size: 1.5em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    color: rgb(155, 197, 61);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: Avenir;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 69;
+    margin-top: 17px;
+    margin-left: 20px;
+    clear: none;
+}
+
+#pdf-icon {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 104;
+    margin-top: 5px;
+    margin-left: 5.042017%;
+    clear: none;
+}
+
+#headerLbl {
+    float: left;
+    font-size: 1.5em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    color: rgb(55, 55, 55);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: Avenir;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 67;
+    margin-top: 15px;
+    margin-left: 35px;
+    clear: none;
+}
+
+#headerTxtBG {
+    float: left;
+    height: 54px;
+    width: 66%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 66;
+}
+
+#_-e-logout {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 115;
+    margin-top: 1px;
+    margin-left: 0%;
+    clear: both;
+}
+
+#titleDiv {
+    float: none;
+    height: 60px;
+    width: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 65;
+    margin-top: 100px;
+    margin-left: 195px;
+    clear: none;
+    min-width: 0px;
+    margin-right: 0px;
+    overflow: hidden;
+    display: block;
+}
+
+#_-e-account {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 119;
+    margin-top: 1px;
+    margin-left: 0%;
+    clear: both;
+}
+
+#_-e-translate {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 132;
+    margin-top: 1px;
+    margin-left: 0%;
+    clear: both;
+}
+
+#logo {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 161;
+    margin-top: 33px;
+    margin-left: 35px;
+    clear: none;
+}
+
+#headerDiv {
+    float: left;
+    height: 100px;
+    width: 100%;
+    background-color: rgb(155, 197, 61);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 159;
+    display: block;
+}
+
+#_-e-transcribe {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 141;
+    margin-top: 1px;
+    margin-left: 0%;
+    clear: both;
+}
+
+#_-e-all_files {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 151;
+    margin-top: 1px;
+    margin-left: 0%;
+    clear: none;
+}
+
+#nav {
+    float: none;
+    height: 100%;
+    width: 195px;
+    background-color: rgb(55, 55, 55);
+    position: absolute;
+    top: auto;
+    left: 0px;
+    z-index: 111;
+    clear: none;
+    min-height: 0px;
+    bottom: 0px;
+    padding: 100px 0px 0px;
+}
+
+#contentDiv {
+    float: none;
+    height: auto;
+    margin-left: 195px;
+    margin-top: 0px;
+    clear: none;
+    width: auto;
+    margin-right: 0px;
+}
+
+#navIcon {
+        
+        display: none;
+    }
+
+@media only screen and (max-width: 1000px) {
+    #headerTxtBG {
+        width: 66%;
+    }
+
+
+    #logo {
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        clear: none;
+    }
+
+    #nav {
+        margin-top: 31px;
+        margin-left: 0%;
+        clear: none;
+display: none;
+    }
+
+#contentDiv {
+        width: 100%;
+        margin: 0px;
+    }
+
+#titleDiv {
+        width: 100%;
+        margin: 0px;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    #exportBG {
+        clear: both;
+        margin-top: 0px;
+        margin-left: 25px;
+        margin-right: 0px;
+        float: left;
+    }
+
+    #docContentDiv {
+        clear: none;
+    }
+
+    #headerTxtBG {
+        width: 100%;
+    }
+
+    #titleDiv {
+        overflow: visible;
+        width: auto;
+    }
+
+    #contentBG {
+        margin: 60px 0px 0px;
+        float: none;
+        clear: none;
+    }
+
+
+}
+
+@media only screen and (max-width: 600px) {
+    #nav {
+        display: none;
+    }
+
+    #navIcon {
+        
+        display: block;
+    }
+
+    
+}
+
+@media only screen and (max-width: 500px) {
+    #headerTxtBG {
+        width: 100%;
+    }
+
+    #exportBG {
+        clear: both;
+    }
+
+    #docContentDiv {
+        clear: none;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    #docContentDiv {
+        width: auto;
+    }
+}
+
+              

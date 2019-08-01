@@ -1,0 +1,358 @@
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 100%;
+    position: relative;
+}
+#fileNameTxt {
+    margin-top: 15px;
+    text-align: center;
+}
+#fileBtnTxt {
+    text-align: center;
+    margin-top: 15px;
+    font-size: 22px;
+    color: white;
+    font-weight: bold;
+}
+#tipIcon {
+    height: 20px;
+    width: 20px;
+    margin-bottom: 10px;
+    margin-top: 2px;
+}
+#tipDiv {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 100;
+    background-color: rgba(0,0,0,0.5);
+    display: none;
+}
+#closeTip {
+    float: right;
+    width: 100%;
+    text-align: right;
+    margin-bottom: 10px;
+}
+#tipContent p {
+    margin-bottom: 20px;
+}
+#tipContent {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 400px;
+    height: auto;
+    margin-top: -150px;
+    margin-left: -200px;
+    background-color: white;
+    padding: 20px;
+    color: rgb(55, 55, 55);
+}
+
+#customModel {
+   
+    margin-top: 10px;
+}
+
+#sourceLanguage {
+    /*
+    margin-bottom: 10px;
+    margin-right: auto;
+    display: -webkit-box;
+    margin-left: auto;
+*/
+    
+    display: -webkit-box;
+/*    width: 90%;*/
+    width: 100%;
+    float: left;
+    margin-right: 5px;
+}
+#TRANSCRIBE {
+    float: none;
+    font-size: 1.640625em;
+    width: auto;
+    height: auto;
+    text-align: center;
+    font-weight: bold;
+    line-height: 1em;
+    color: rgb(255, 255, 255);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 66;
+    margin-top: 18px;
+    margin-left: 0%;
+    clear: none;
+    margin-right: 0px;
+    cursor: pointer;
+}
+#fileLbl {
+    float: none;
+    font-size: 1.75em;
+    width: auto;
+    height: auto;
+    text-align: center;
+    font-weight: normal;
+    line-height: 1em;
+    color: rgb(55, 55, 55);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 69;
+    margin: 50px auto 0px;
+    clear: none;
+    right: auto;
+}
+#_-e-logout {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 10;
+    margin-top: 1px;
+    margin-left: 0%;
+    clear: both;
+}
+#transcribeBtn {
+    float: none;
+    height: 55px;
+    width: 100%;
+    background-color: rgb(155, 197, 61);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 65;
+    margin: 50px 0px 0px;
+    clear: none;
+    cursor: pointer;
+}
+#_-e-account {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 14;
+    margin-top: 1px;
+    margin-left: 0%;
+    clear: both;
+}
+#SELECT_FILE {
+    float: none;
+    font-size: 1.640625em;
+    width: auto;
+    height: auto;
+    text-align: center;
+    font-weight: normal;
+    line-height: 1em;
+    color: rgb(255, 255, 255);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 62;
+    margin: 18px auto 0px;
+    clear: none;
+    display: none;
+}
+#_-e-translate {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 27;
+    margin-top: 1px;
+    margin-left: 0%;
+    clear: both;
+}
+#logo {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 56;
+    margin-top: 33px;
+    margin-left: 35px;
+    clear: none;
+}
+#headerBG {
+    float: left;
+    height: 100px;
+    width: 100%;
+    background-color: rgb(155, 197, 61);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 54;
+    min-width: 300px;
+}
+#selectFileBtn {
+    float: none;
+    height: 55px;
+    width: 100%;
+    background-color: rgb(91, 192, 235);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 61;
+    margin-top: 0px;
+    margin-left: 0%;
+    clear: none;
+    margin-right: 0px;
+}
+#_-e-transcribe {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 36;
+    margin-top: 1px;
+    margin-left: 0%;
+    clear: both;
+}
+#_-e-all_files {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 46;
+    margin-top: 1px;
+    margin-left: 0%;
+    clear: none;
+}
+#nav {
+    float: left;
+    height: 100%;
+    width: 195px;
+    background-color: rgb(55, 55, 55);
+    position: absolute;
+    top: auto;
+    left: 0px;
+    z-index: 6;
+    clear: both;
+    bottom: 0px;
+    min-height: 0px;
+    padding: 100px 0px 0px;
+}
+#btnDiv {
+    float: none;
+    height: 200px;
+    margin: 220px auto 0px;
+    clear: none;
+    width: 280px;
+    display: block;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+#navIcon {
+    display: none;
+}
+
+@media only screen and (max-width: 1000px) {
+#nav {
+    margin: 0px;
+    clear: none;
+}
+#btnDiv {
+    position: relative;
+    top: 0px;
+    left: 0px;
+    width: 280px;
+    height: 200px;
+}
+#selectFileBtn {
+    width: 100%;
+    height: 55px;
+    margin-left: 0%;
+    margin-right: 0px;
+    float: none;
+    clear: none;
+}
+#transcribeBtn {
+    width: 100%;
+    height: 55px;
+    margin: 50px 0px 0px;
+    clear: none;
+    float: none;
+}
+#fileLbl {
+    position: relative;
+    margin: 50px auto 0px;
+    top: 0px;
+    left: 0px;
+    right: auto;
+    clear: none;
+    float: none;
+}
+#TRANSCRIBE {
+    margin-left: 0%;
+    margin-right: 0px;
+    float: none;
+    clear: none;
+    margin-top: 18px;
+    text-align: center;
+}
+#SELECT_FILE {
+    margin: 18px auto 0px;
+    float: none;
+    clear: none;
+    text-align: center;
+}
+}
+
+@media only screen and (max-width: 800px) {
+#logo {
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+    clear: none;
+}
+#navIcon {
+    display: block;
+}
+#nav {
+    display: none;
+}
+}
